@@ -5,40 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>WebnodeRessources | Ressources externes pour le site Webnode</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="WebnodeRessources" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Ressources externes pour le site Webnode" />
-<meta property="og:description" content="Ressources externes pour le site Webnode" />
-<link rel="canonical" href="https://aot-bad78.github.io/WebnodeRessources/" />
-<meta property="og:url" content="https://aot-bad78.github.io/WebnodeRessources/" />
-<meta property="og:site_name" content="WebnodeRessources" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="WebnodeRessources" />
-<script type="application/ld+json">
-{"description":"Ressources externes pour le site Webnode","url":"https://aot-bad78.github.io/WebnodeRessources/","@type":"WebSite","headline":"WebnodeRessources","name":"WebnodeRessources","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/WebnodeRessources/assets/css/style.css?v=561cdfa364e8ab54d75b9e1c85792e4513b1b247">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/WebnodeRessources/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://aot-bad78.github.io/WebnodeRessources/">WebnodeRessources</a></h1>
-      
+     
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
   
