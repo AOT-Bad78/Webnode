@@ -41,9 +41,9 @@
 	});
   		L.control.attribution().setPrefix('<a href="https://cartodream.wixsite.com/website-1" target="_blank">Cartodream</a> &middot; <a href="https://www.openstreetmap.fr/" target="_blank">OSM</a> &middot;<a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot').addTo(map);
 	
-	var BroustalIcon = new LeafIcon({iconUrl: 'image/Plan de travail 1.svg'});
-	var RousseauIcon = new LeafIcon({iconUrl: 'image/Plan de travail 2.svg'});
-	var GagarineIcon = new LeafIcon({iconUrl: 'image/Plan de travail 3.svg'});
+	var BroustalIcon = new LeafIcon({iconUrl: 'png-clipart-color-badminton-Broustal.svg'});
+	var RousseauIcon = new LeafIcon({iconUrl: 'png-clipart-color-badminton-Rousseau.svg'});
+	var GagarineIcon = new LeafIcon({iconUrl: 'png-clipart-color-badminton-Gagarine.svg'});
 
 	
 
